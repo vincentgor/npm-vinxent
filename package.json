@@ -1,0 +1,22 @@
+{
+  "name": "vinxent",
+  "version": "1.0.3",
+  "description": "test here",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "vinxent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentgor/npm-vinxent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vincentgor/npm-vinxent/issues"
+  },
+  "homepage": "https://github.com/vincentgor/npm-vinxent#readme"
+}

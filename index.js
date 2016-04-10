@@ -1,9 +1,13 @@
-var vinxent = {};
+'use strict'
 
-// vinxent 测试
-vinxent.test = function (argument) {
-	console.log('welcome to vinxent');
-	console.log(argument);
-};
+class vinxent {
+	constructor (name) {
+		this.name = name;
+	}
+	test(data) {
+		console.log('welcome,', this.name);
+		console.log('your input is', data);
+	}
+}
 
 module.exports = vinxent;
